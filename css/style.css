@@ -459,6 +459,9 @@ main{
     width: 100%;
     z-index: 2;
     top: -67px;
+    left:0;
+    right:0;
+    bottom:0;
 }
 .cities-list .city a p{
     position: absolute;
